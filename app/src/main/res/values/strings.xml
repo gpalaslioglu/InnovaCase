@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InnovaCase</string>
+    <string name="listTitle">SpaceX Launches</string>
+    <string name="clearFilterText">Clear Filter</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_back">Back</string>
+    <string name="filter_title">Filter</string>
+</resources>
